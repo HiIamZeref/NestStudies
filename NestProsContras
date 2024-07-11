@@ -1,0 +1,26 @@
+NestJS:
+    -Angular inspired server side framework
+    -Integração com diversas ORMs como Prisma e TypeORM.
+    -
+Prós:
+    -Funciona com Typescript, podendo tirar proveito de recursos como (principalmente) Decorators, Interfaces... Gerando uma camada de "segurança" a mais a aplicação.
+    -CLI permite criar componentes da arquitetura MVC como Controllers e Services, e automaticamente integrando esses componentes.
+    -Possui forte potencial de escalabilidade.
+    -Injeção de dependecia permite que o código fique mais modular, podendo compartilhar uma mesma lógica em diversos trechos de código.
+    -Pipes permitem validações de dados
+    -Suporte a WebSockets, GraphQL e Rest APIs.
+    -Em comparação ao Express, ele precisa de menos bibliotecas "externas" para criar um server side app robusto.
+    -Curva de aprendizado relativamente baixa sabendo principios de backend, pois além de construir aplicações robustas, te ensinas boas práticas de desenvolvimento backend aplicando principios SOLID.
+    -Outros elementos importantes: Logging, Caching, Rate-Limiting, CORS.
+    -Integração com o Jest para testes unitarios.
+    -Empresas estão passando a adotar Nest para aplicações mais parrudas.
+    -Nest = Expressjs com super armor.
+
+
+
+Contras:
+    -O ExpressJS te deixa extremamente livre para montar as coisas da forma que preferir, o Nest te fornece todo o kit além da receita para montar os componentes.
+    -Express consegue ser mais performatico por si só em relação ao Nest. (!!!)
+
+    
+
